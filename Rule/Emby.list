@@ -1,0 +1,37 @@
+# NAME: Emby
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2022-11-03 17:11:25
+# DOMAIN-KEYWORD: 11
+# DOMAIN-SUFFIX: 17
+# IP-CIDR: 1
+# TOTAL: 28
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,misty.ltd
+DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,cf.misakaf.org
+DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,emby2.misakaf.org
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,line.xmsl.org
+DOMAIN-SUFFIX,pm.xmsl.org
+DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,xmsl
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,plusmedia
+DOMAIN-KEYWORD,odysseyplus
+DOMAIN-KEYWORD,xeton
+DOMAIN-KEYWORD,charontv
+DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,pornemby
+DOMAIN-KEYWORD,123456
+DOMAIN-KEYWORD,misty
+IP-CIDR,161.97.148.156/24,no-resolve
