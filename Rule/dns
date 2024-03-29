@@ -42,7 +42,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`.*'[]🚀 节点选择`.*
+custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🚀 节点选择`.*
 
 ;设置分组标志位
 
