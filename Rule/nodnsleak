@@ -2,7 +2,7 @@
 ;解决DNS泄露，无分流群组
 ruleset=🔰 节点选择,[]DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 ruleset=🔰 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
-ruleset=🔰 节点选择,https://raw.githubusercontent.com/CHFLK99/File/main/Rule/GoogleCNProxyIP.list
+ruleset=🔰 节点选择,https://raw.githubusercontent.com/CHFLK99/File/main/Rule/GoogleCNProxy.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/CHFLK99/File/main/Rule/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/CHFLK99/File/main/Rule/UnBan.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/CHFLK99/File/main/Rule/ChinaDomain.list
