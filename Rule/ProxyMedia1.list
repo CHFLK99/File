@@ -56,6 +56,10 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
+DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,tv.apple.com
 
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
