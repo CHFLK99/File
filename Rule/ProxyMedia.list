@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
 # 更新：2024-01-23 22:08:30
-# 数量：372条
+# 数量：368条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -56,10 +56,6 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
 
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
