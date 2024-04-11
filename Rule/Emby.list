@@ -1,9 +1,9 @@
 # NAME: Emby
 # AUTHOR: justdoiting
 # REPO: https://github.com/justdoiting/emby-rules
-# UPDATED: 2022-11-03 17:11:25
-# DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 17
+# UPDATED: 2024-04-11 08:32:25
+# DOMAIN-KEYWORD: 12
+# DOMAIN-SUFFIX: 18
 # IP-CIDR: 1
 # TOTAL: 28
 DOMAIN-SUFFIX,cf.jmsooo.com
@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,cf.xmsl.org
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-SUFFIX,cf.imetyou.top
+DOMAIN-KEYWORD,imetyou
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,xmsl
 DOMAIN-KEYWORD,jmsooo
