@@ -3,7 +3,7 @@
 # REPO: https://github.com/justdoiting/emby-rules
 # UPDATED: 2024-04-30 10:32:25
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 21
+# DOMAIN-SUFFIX: 20
 # IP-CIDR: 1
 # TOTAL: 32
 DOMAIN-SUFFIX,pub1.emby.wtf
@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,cf.emby.ml
 DOMAIN-SUFFIX,cf.imetyou.top
-DOMAIN-KEYWORD,pub
 DOMAIN-KEYWORD,imetyou
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,xmsl
